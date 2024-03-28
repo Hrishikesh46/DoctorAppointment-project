@@ -1,5 +1,5 @@
 import "./App.css";
-import Layout from "./layout/layout";
+import Layout from "./layout/Layout";
 
 import Home from "./pages/Home";
 import Services from "./pages/Services";
